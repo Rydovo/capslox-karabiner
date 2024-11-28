@@ -1,5 +1,6 @@
 # capslox-karabiner
 
+基于 https://github.com/yqchilde/capslox-karabiner 实现vim 版本
 本项目是基于karabiner实现替代[capslox软件](https://capslox.com)
 部分功能的配置，由于在内测阶段一直使用capslox，且仅使用了基础热键，故没有参与付费购买，当然capslox不得不说是一款在Mac上非常好用的软件。
 
@@ -8,7 +9,7 @@
 1. 下载 [Karabiner-Elements](https://karabiner-elements.pqrs.org/) 并安装好
 2. 在默认浏览中输入下面网址，并回车
     ```shell
-    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/yqchilde/capslox-karabiner/main/capslox-karabiner.json
+    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Rydovo/capslox-karabiner/refs/heads/feature/test-vim/vim-karabiner.json
     ```
 3. 跳转至Karabiner-Elements并导入
 4. 在软件菜单项 `Complex modifications` 中点击左下角 `Add rule` 启用该项目全部功能

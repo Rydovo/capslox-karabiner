@@ -1112,7 +1112,7 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "N",
+            "key_code": "n",
             "modifiers": {
               "mandatory": [
                 "right_command",
